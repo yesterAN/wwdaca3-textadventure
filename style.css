@@ -1,0 +1,54 @@
+button {
+    display: block;
+    margin-top: 10px;
+    color: lightseagreen;
+    border-color: aquamarine;
+    background-color: darkslategrey;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+input {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: darkslategrey;
+    color: lightseagreen;
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+h1 {
+color: aquamarine;
+border-style: hidden hidden hidden solid;
+border-color: lightseagreen;
+padding-left: 10px;
+height: auto;
+}
+
+label {
+    border-style: hidden hidden hidden solid;
+    border-color: lightseagreen;
+    padding-left: 10px;
+
+}
+
+p {
+    border-style: hidden hidden hidden solid;
+    border-color: lightseagreen;
+    padding-left: 10px;
+}
+
+body {
+   background-color: black;
+    background-image: url("img/Rimberio.png");
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 15px;
+    width: auto;
+    border: 10px double darkslategrey;
+    padding: 10px;
+    outline: 100px solid black;
+}
+
+img {
+    width: 500px
+}
